@@ -19,7 +19,7 @@ __license__ = "MIT"
 __version__ = "0.9"
 __maintainer__ = "Wes Modes"
 __email__ = "wmodes@gmail.com"
-__status__ = "Development"
+__status__ = "Production"
 
 # used for printing debug and other info
 import logging
