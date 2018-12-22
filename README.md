@@ -3,7 +3,7 @@ a basic python script template
 
 This basic python script template demonstrates:
 
- * header docstring (this!)
+ * header docstring
  * header block metadata
  * using logging module
  * using a config json config config file
